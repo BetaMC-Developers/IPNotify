@@ -1,6 +1,6 @@
 name: IPNotify
 main: me.hretsam.ipnotify.IPNotify
-version: 1.3
+version: 1.4
 author: Hretsam (Yoharnu till 0.5 (IPGet))
 commands:
    ip:
